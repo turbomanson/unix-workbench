@@ -1,5 +1,5 @@
- **TITLE:** guessing-game.sh 
+ **Title:** guessing-game.sh 
 
- **DATE:**  Thu Sep 28 10:09:49 2017 
+ **Date:**  Thu Sep 28 10:33:00 2017 
 
- **NUMBER OF LINES**:  31
+ **Line count:**  31
